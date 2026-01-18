@@ -4,3 +4,4 @@ qiskit-aer
 plotly
 numpy
 matplotlib
+sympy
