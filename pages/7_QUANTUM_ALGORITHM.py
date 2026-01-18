@@ -352,4 +352,4 @@ elif st.session_state.arcade_mode == "Shor":
             
             st.success("**Period r=4 found!**")
             st.latex(r"\text{Factors} = \text{gcd}(7^{4/2} \pm 1, 15) \rightarrow 3, 5")
-            st.balloons()
+            
